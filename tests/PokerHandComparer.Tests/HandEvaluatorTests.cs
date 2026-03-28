@@ -1,3 +1,5 @@
+using Xunit;
+
 namespace PokerHandComparer.Tests;
 
 public class HandEvaluatorTests
